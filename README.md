@@ -21,7 +21,7 @@ This is a full-stack Task Management application .
 2. **Backend Setup:**
    cd backend
    npm install
-   # Create a .env file based on .env.example
+  
    npm run dev
 
 3. **Frontend Setup:**
